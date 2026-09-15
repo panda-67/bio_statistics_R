@@ -20,6 +20,9 @@ output → kesimpulan biologis.
 
 ## R
 
+Donwload RStudio di [Posit](https://posit.co/downloads)
+Download [R](https://cran.r-project.org/bin/windows/base/R-4.6.1-win.exe)
+
 Gunakan R versi relatif baru dan RStudio/Posit IDE bila diinginkan.
 Package: dplyr, readr, ggplot2, lme4, lmerTest.
 
